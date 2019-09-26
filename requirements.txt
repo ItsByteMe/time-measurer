@@ -1,0 +1,6 @@
+pip install fastai
+pip install numpy
+pip install python-opencv
+pip install ffmpy
+pip install flask
+pip install werkzeug
